@@ -341,6 +341,16 @@ The available data identifies the scale, financial impact and patterns of the is
 
 ---
 
+## Project Documentation
+
+The following documents provide additional details about
+the investigation methodology and analytical findings.
+
+- [Analysis Approach](docs/ANALYSIS_APPROACH.md)
+- [Power BI Investigation Report (PDF)](docs/Northstar_Data_Quality_Investigation.pdf)
+
+---
+
 ## Repository Structure
 
 ```text
